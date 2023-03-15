@@ -1,0 +1,43 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #e4e9f2;
+    padding: 25px 0 30px 0;
+    margin: 0 165px 30px;
+}
+
+.logo-div {
+    display: flex;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    
+}
+
+li {
+    margin: 0 10px;
+}
+
+li a {
+    text-decoration: none;
+    color: #69707d;
+}
+
+li a:hover {
+    color: #1d2026;
+}
+
+.cart-div {
+    display: flex;
+    align-items: center;
+}
+
+.avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin: 0 30px;
+}
